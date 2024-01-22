@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> how to be come a foremost expert in your field .........moye you cab do it ...... </h1>
 
   
 </form>
