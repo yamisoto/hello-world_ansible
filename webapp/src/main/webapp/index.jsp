@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> CGTLX CGTLX . . .CKC how to be come a foremost expert in your field .........moye you cab do it ...... </h1>
+   <h1> The winds of change ,brings increase and more opportunities  ...... </h1>
 
   
 </form>
